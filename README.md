@@ -15,3 +15,9 @@ The python code is mainly responsible for the following analyses:
 - Cleans the item_price column by removing the dollar sign and converting the datatype from object to float64
 - Identifies the missing values and replaces them with 'Regular Order' for the choice_description column 
 - Removes the duplicate rows from the dataset 
+- Export the cleaned data
+
+# Data Visualization using Tableau
+
+![My Image](tableau_dashboard.png)
+
