@@ -7,7 +7,7 @@ The data for this analysis was taken from justmarkham/DAT8, which contains a TSV
 
 # Data Analysis
 
-- The code the following analyses (summary): 
+The python code is mainly responsible for the following analyses:
 - Reads in the Chipotle orders data from a local file 
 - Cleans the item_price column by removing the dollar sign and converting the datatype from object to float64
 - Identifies the missing values and replaces them with 'Regular Order' for the choice_description column 
