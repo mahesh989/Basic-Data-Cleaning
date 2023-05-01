@@ -3,7 +3,10 @@
 This repository contains code for analyzing and cleaning a dataset from Chipotle. The dataset contains information about orders from Chipotle, including the items ordered, quantity, and price.
 
 # Data Source
-The data for this analysis was taken from justmarkham/DAT8, which contains a TSV file of Chipotle orders.
+The data for this analysis was taken from [justmarkham/DAT8](https://github.com/justmarkham/DAT8/blob/master/data/chipotle.tsv), which contains a TSV file of Chipotle orders.
+
+
+
 
 # Data Analysis
 
