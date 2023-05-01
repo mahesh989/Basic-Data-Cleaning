@@ -18,6 +18,7 @@ The python code is mainly responsible for the following analyses:
 - Export the cleaned data
 
 # Data Visualization using Tableau
+Visit my Tableau Profile [HERE](https://public.tableau.com/app/profile/maheshwor.tiwari4503/viz/SalesPerformance_16829031148120/Dashboard1?publish=yes)
 
 ![My Image](tableau_dashboard.png)
 
